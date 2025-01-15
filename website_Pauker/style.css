@@ -1,0 +1,32 @@
+.navbar {
+    margin:0rem; padding:2rem; width: 100%; height: auto;
+    position: fixed;
+    background-color: black;
+
+}
+
+.red_border {
+    padding:1rem;
+    border:0.2rem dashed red;
+    margin:auto;
+}
+
+.btn-primary {
+    background-color: #131313 !important;
+    border-color: darkred !important;
+}
+.btn-primary:hover {
+    background-color: #222222 !important;
+}
+
+.design {
+    padding:6rem;
+    background: linear-gradient(black, darkred);
+    color:white;
+}
+
+ .design img {
+     margin:auto;
+     object-fit: contain;
+     height: 25rem;
+ }
